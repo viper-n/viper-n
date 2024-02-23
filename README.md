@@ -3,3 +3,7 @@
 - 🌱 I’m currently learning Angular and Python for use in cybersecurity.
 - 💞️ I’m looking to collaborate on nothing in particular at the moment.
 - 📫 How to reach me... [REDACTED]
+
+Repos:
+https://viper-n.github.io/freecodecamp/
+https://viper-n.github.io/coursera-ibm-fullstack/
