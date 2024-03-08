@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viper-n!
 - 👀 I’m interested in building and breaking things! To learn, of course...
-- 🌱 I’m currently learning Angular and Python for use in cybersecurity.
+- 🌱 I’m currently learning Python for use in cybersecurity.
 - 💞️ I’m looking to collaborate on nothing in particular at the moment.
 - 📫 How to reach me... [REDACTED]
 
